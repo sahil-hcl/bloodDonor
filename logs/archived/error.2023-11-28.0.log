@@ -1,0 +1,28 @@
+2023-11-28 07:52:40 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 14880 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-28 07:52:40 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-28 07:52:40 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-28 07:52:41 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 0.576 seconds (process running for 10.181)
+2023-11-28 07:52:41 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 14880 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-28 07:52:41 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-28 07:52:41 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-28 07:52:42 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 0.373 seconds (process running for 10.902)
+2023-11-28 07:52:42 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 14880 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-28 07:52:42 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-28 07:52:42 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-28 07:52:42 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 0.303 seconds (process running for 11.262)
+2023-11-28 07:52:42 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null
+2023-11-28 08:01:46 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : up, district : null, city : null

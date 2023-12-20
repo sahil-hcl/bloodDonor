@@ -1,0 +1,60 @@
+2023-11-27 19:15:56 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 25152 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:15:56 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:15:56 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:15:57 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 0.685 seconds (process running for 9.385)
+2023-11-27 19:15:57 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 25152 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:15:57 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:15:57 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:15:58 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 0.488 seconds (process running for 10.29)
+2023-11-27 19:15:58 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 25152 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:15:58 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:15:58 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:15:58 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 0.389 seconds (process running for 10.751)
+2023-11-27 19:15:58 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null
+2023-11-27 19:17:18 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 13224 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:17:18 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:17:18 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:17:21 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 3.432 seconds (process running for 5.219)
+2023-11-27 19:18:54 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 23924 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:18:54 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:18:54 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:18:55 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 0.547 seconds (process running for 9.077)
+2023-11-27 19:18:55 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 23924 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:18:55 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:18:55 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:18:55 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 0.415 seconds (process running for 9.841)
+2023-11-27 19:18:55 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 23924 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-27 19:18:55 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-27 19:18:55 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-27 19:18:56 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 0.324 seconds (process running for 10.224)
+2023-11-27 19:18:56 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null

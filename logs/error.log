@@ -1,0 +1,218 @@
+2023-11-29 08:07:27 [http-nio-8080-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+                Duplicate entry '1' for key 'blood_group.PRIMARY'
+2023-11-29 08:13:45 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 19536 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 08:13:45 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 08:13:45 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 08:13:46 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 0.656 seconds (process running for 10.971)
+2023-11-29 08:13:47 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 19536 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 08:13:47 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 08:13:47 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 08:13:47 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 0.466 seconds (process running for 12.154)
+2023-11-29 08:13:47 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 19536 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 08:13:47 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 08:13:47 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 08:13:48 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 0.33 seconds (process running for 12.564)
+2023-11-29 08:13:48 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null
+2023-11-29 08:20:15 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 12440 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 08:20:15 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 08:20:15 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 08:20:18 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 3.003 seconds (process running for 4.646)
+2023-11-29 08:24:00 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : up, district : null, city : null
+2023-11-29 08:25:48 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 24016 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 08:25:48 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 08:25:48 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 08:25:50 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 3.159 seconds (process running for 4.839)
+2023-11-29 08:25:51 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null
+2023-11-29 08:49:22 [http-nio-8080-exec-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+                Duplicate entry 'B+' for key 'blood_group.UK_9d7pnqfprkwwwrfjyolmby1xy'
+2023-11-29 10:19:12 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 2356 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 10:19:12 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 10:19:12 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 10:19:13 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 0.717 seconds (process running for 9.651)
+2023-11-29 10:19:13 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Starting BloodGroupControllerTest using Java 21.0.1 with PID 2356 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 10:19:13 [main] DEBUG c.h.b.c.BloodGroupControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 10:19:13 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 10:19:14 [main] INFO  c.h.b.c.BloodGroupControllerTest -
+                Started BloodGroupControllerTest in 0.559 seconds (process running for 10.578)
+2023-11-29 10:19:14 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Starting DonorControllerTest using Java 21.0.1 with PID 2356 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-29 10:19:14 [main] DEBUG c.h.b.controller.DonorControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-29 10:19:14 [main] INFO  c.h.b.controller.DonorControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-29 10:19:14 [main] INFO  c.h.b.controller.DonorControllerTest -
+                Started DonorControllerTest in 0.449 seconds (process running for 11.261)
+2023-11-29 10:19:14 [main] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : null, district : null, city : null
+2023-11-30 08:00:29 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+                
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-11-30 08:07:55 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+                
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-11-30 20:57:37 [main] ERROR o.s.boot.SpringApplication -
+                Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationPropertiesBeans' defined in class path resource [org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:273)
+	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:796)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:600)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:738)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:440)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:150)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:212)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:117)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:74)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:174)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:167)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:145)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:133)
+	at org.springframework.boot.context.event.EventPublishingRunListener.multicastInitialEvent(EventPublishingRunListener.java:136)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:81)
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(SpringApplicationRunListeners.java:64)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:63)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.hcl.bloodDonor.BloodDonorApplication.main(BloodDonorApplication.java:12)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.buildPersistenceMetadata(PersistenceAnnotationBeanPostProcessor.java:446)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.findPersistenceMetadata(PersistenceAnnotationBeanPostProcessor.java:417)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.findInjectionMetadata(PersistenceAnnotationBeanPostProcessor.java:371)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(PersistenceAnnotationBeanPostProcessor.java:353)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1083)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:572)
+	... 31 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/context/properties/ConfigurationBeanFactoryMetadata
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 38 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 42 common frames omitted
+2023-11-30 20:57:37 [main] ERROR o.s.boot.SpringApplication -
+                Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationPropertiesBeans' defined in class path resource [org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:273)
+	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:796)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:600)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:738)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:440)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:150)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:212)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:117)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:74)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:174)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:167)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:145)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:133)
+	at org.springframework.boot.context.event.EventPublishingRunListener.multicastInitialEvent(EventPublishingRunListener.java:136)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:81)
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(SpringApplicationRunListeners.java:64)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:63)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.hcl.bloodDonor.BloodDonorApplication.main(BloodDonorApplication.java:12)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.buildPersistenceMetadata(PersistenceAnnotationBeanPostProcessor.java:446)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.findPersistenceMetadata(PersistenceAnnotationBeanPostProcessor.java:417)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.findInjectionMetadata(PersistenceAnnotationBeanPostProcessor.java:371)
+	at org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(PersistenceAnnotationBeanPostProcessor.java:353)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1083)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:572)
+	... 31 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/context/properties/ConfigurationBeanFactoryMetadata
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 38 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 42 common frames omitted

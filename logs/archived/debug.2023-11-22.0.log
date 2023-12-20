@@ -1,0 +1,82 @@
+2023-11-22 07:51:27 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 07:53:09 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 07:53:09 [http-nio-8080-exec-2] WARN  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:15 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:15 [http-nio-8080-exec-2] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:29 [http-nio-8080-exec-3] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:29 [http-nio-8080-exec-3] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:34 [http-nio-8080-exec-4] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:06:34 [http-nio-8080-exec-4] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:07:01 [http-nio-8080-exec-5] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:07:01 [http-nio-8080-exec-5] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:07:06 [http-nio-8080-exec-6] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:07:06 [http-nio-8080-exec-6] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-22 08:15:50 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:22:07 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:22:17 [http-nio-8080-exec-4] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : null
+2023-11-22 08:22:22 [http-nio-8080-exec-3] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : Sonbhadra, city : null
+2023-11-22 08:22:27 [http-nio-8080-exec-5] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : Sonbhadra, city : Robertsganj
+2023-11-22 08:26:10 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : Sonbhadra, city : Robertsganj
+2023-11-22 08:26:24 [http-nio-8080-exec-4] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:31:56 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:33:12 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:42:47 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 08:42:53 [http-nio-8080-exec-3] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : null
+2023-11-22 09:12:04 [http-nio-8080-exec-6] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : Robertsganj
+2023-11-22 09:12:10 [http-nio-8080-exec-7] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : Sonbhadra, city : Robertsganj
+2023-11-22 09:12:17 [http-nio-8080-exec-8] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 09:12:22 [http-nio-8080-exec-9] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : Robertsganj
+2023-11-22 09:13:28 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : null, district : null, city : null
+2023-11-22 19:11:23 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-22 19:11:23 [http-nio-8080-exec-1] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-22 19:11:55 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-22 19:11:55 [http-nio-8080-exec-1] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-22 19:12:47 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-22 19:12:47 [http-nio-8080-exec-1] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-22 19:13:41 [http-nio-8080-exec-3] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-22 19:13:41 [http-nio-8080-exec-3] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-22 19:14:20 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-22 19:14:20 [http-nio-8080-exec-2] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-22 20:53:39 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : null
+2023-11-22 20:53:39 [http-nio-8080-exec-1] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india

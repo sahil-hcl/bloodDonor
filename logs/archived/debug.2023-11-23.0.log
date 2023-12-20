@@ -1,0 +1,72 @@
+2023-11-23 08:37:48 [http-nio-8080-exec-5] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india, state : up, district : null, city : null
+2023-11-23 08:37:48 [http-nio-8080-exec-5] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A positive, country india
+2023-11-23 08:38:19 [http-nio-8080-exec-6] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : null
+2023-11-23 08:38:19 [http-nio-8080-exec-6] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-23 08:49:07 [http-nio-8080-exec-2] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A , country india, state : up, district : null, city : null
+2023-11-23 08:49:07 [http-nio-8080-exec-2] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A , country india
+2023-11-23 10:38:01 [http-nio-8080-exec-1] INFO  c.h.b.controller.DonorController -
+                bloodGroup : A+, country india, state : up, district : null, city : null
+2023-11-23 10:38:01 [http-nio-8080-exec-1] ERROR c.h.b.controller.DonorController -
+                bloodGroup : A+, country india
+2023-11-23 20:55:55 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 14080 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 20:55:55 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 20:55:55 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 20:55:58 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 3.144 seconds (process running for 4.823)
+2023-11-23 20:57:14 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 8680 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 20:57:14 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 20:57:14 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 20:57:17 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 3.716 seconds (process running for 6.604)
+2023-11-23 21:01:57 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 5108 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 21:01:57 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 21:01:57 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 21:02:00 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 3.135 seconds (process running for 4.968)
+2023-11-23 21:04:11 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 24980 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 21:04:11 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 21:04:11 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 21:04:13 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 2.928 seconds (process running for 4.455)
+2023-11-23 21:06:44 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 21728 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 21:06:44 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 21:06:44 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 21:06:47 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 3.015 seconds (process running for 4.607)
+2023-11-23 21:09:24 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 26096 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 21:09:24 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 21:09:24 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 21:09:27 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 3.017 seconds (process running for 4.762)
+2023-11-23 21:10:16 [main] INFO  c.h.b.c.AddressControllerTest -
+                Starting AddressControllerTest using Java 21.0.1 with PID 12072 (started by sahil_srivastava in C:\Users\sahil_srivastava\Downloads\bloodDonor\bloodDonor)
+2023-11-23 21:10:16 [main] DEBUG c.h.b.c.AddressControllerTest -
+                Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-23 21:10:16 [main] INFO  c.h.b.c.AddressControllerTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-11-23 21:10:19 [main] INFO  c.h.b.c.AddressControllerTest -
+                Started AddressControllerTest in 2.905 seconds (process running for 4.596)
